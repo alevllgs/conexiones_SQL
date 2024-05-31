@@ -1,0 +1,26 @@
+{
+    "id": "C232A150",
+    "path": "~/GitHub/conexiones_SQL/Conexion_POSTGRES.R",
+    "project_path": "Conexion_POSTGRES.R",
+    "type": "r_source",
+    "hash": "3444878585",
+    "contents": "",
+    "dirty": false,
+    "created": 1717181575567.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1717181586,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717181586691,
+    "read_only": false,
+    "read_only_alternatives": []
+}
