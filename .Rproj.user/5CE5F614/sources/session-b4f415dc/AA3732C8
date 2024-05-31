@@ -3,7 +3,7 @@
     "path": "~/GitHub/conexiones_SQL/Conexion_MYSQL.R",
     "project_path": "Conexion_MYSQL.R",
     "type": "r_source",
-    "hash": "2050864542",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1717181518452.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,0",
-        "scrollLine": "23"
+        "cursorPosition": "24,44",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1717181572,
