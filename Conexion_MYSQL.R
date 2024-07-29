@@ -6,7 +6,7 @@ library(RMySQL)
 # Establece la conexión a MySQL
 con <- dbConnect(RMySQL::MySQL(), 
                  user="root", 
-                 password="clave", 
+                 password="alevllgs", 
                  host="127.0.0.1")
 
 # Crea la base de datos "listado_mascotas" (si no existe)

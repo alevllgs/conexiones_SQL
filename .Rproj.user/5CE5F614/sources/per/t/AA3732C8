@@ -3,7 +3,7 @@
     "path": "~/GitHub/conexiones_SQL/Conexion_MYSQL.R",
     "project_path": "Conexion_MYSQL.R",
     "type": "r_source",
-    "hash": "2050864542",
+    "hash": "2736519920",
     "contents": "",
     "dirty": false,
     "created": 1717181518452.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,44",
+        "cursorPosition": "8,35",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717181572,
+    "lastKnownWriteTime": 1717185187,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717181572097,
+    "last_content_update": 1717185187943,
     "read_only": false,
     "read_only_alternatives": []
 }

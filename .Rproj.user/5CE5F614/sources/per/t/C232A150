@@ -3,7 +3,7 @@
     "path": "~/GitHub/conexiones_SQL/Conexion_POSTGRES.R",
     "project_path": "Conexion_POSTGRES.R",
     "type": "r_source",
-    "hash": "3444878585",
+    "hash": "2190205376",
     "contents": "",
     "dirty": false,
     "created": 1717181575567.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,0",
+        "cursorPosition": "23,39",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717181586,
+    "lastKnownWriteTime": 1717185187,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717181586691,
+    "last_content_update": 1717185187966,
     "read_only": false,
     "read_only_alternatives": []
 }
